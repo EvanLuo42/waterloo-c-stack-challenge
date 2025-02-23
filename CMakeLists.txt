@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.30)
+project(cProject C)
+
+set(CMAKE_C_STANDARD 23)
+
+add_executable(cProject main.c
+)
