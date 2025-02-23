@@ -20,8 +20,8 @@ a file), and will look like the following:
 u 0 22
 u 2 45
 u 6 33
-0 0
-0 0
+o 0
+o 0
 ```
 
 The first field of each line will always be u (pUsh) or o (pOp). The second field will be
